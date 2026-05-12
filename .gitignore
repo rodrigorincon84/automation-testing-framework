@@ -9,6 +9,9 @@
 /dataSources/
 /dataSources.local.xml
 
+# IDE
+.idea/
+
 # .local folder - keep structure but ignore contents
 .local/*
 !.local/.gitkeep
